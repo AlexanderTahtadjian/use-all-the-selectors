@@ -6,25 +6,27 @@ header, footer {
   font-size: 1.5rem;
 }
 
-nav ul{
+nav ul {
   font-family: sans-serif;
 }
 
-logo {
+.logo {
   text-transform: uppercase;
 }
 
-wrapper {
+.wrapper {
   background-color: #eee8d5;
 }
 
-wrapper > .dfn {
+.wrapper > .dfn {
   background-color: #b58900;
 }
-wrapper > .dfn > strong {
+
+.wrapper > .dfn > strong {
   color: #fff;
 }
-contents, favs, facts, types {
+
+.contents, .favs, .facts, .types {
   color: #93a1a1;
 }
 
